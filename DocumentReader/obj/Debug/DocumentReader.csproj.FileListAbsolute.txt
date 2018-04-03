@@ -1,0 +1,14 @@
+c:\users\krystian\documents\visual studio 2015\Projects\DocumentReader\DocumentReader\bin\Debug\DocumentReader.exe
+c:\users\krystian\documents\visual studio 2015\Projects\DocumentReader\DocumentReader\bin\Debug\DocumentReader.pdb
+c:\users\krystian\documents\visual studio 2015\Projects\DocumentReader\DocumentReader\bin\Debug\Dapper.dll
+c:\users\krystian\documents\visual studio 2015\Projects\DocumentReader\DocumentReader\bin\Debug\FileHelpers.dll
+c:\users\krystian\documents\visual studio 2015\Projects\DocumentReader\DocumentReader\bin\Debug\Dapper.xml
+c:\users\krystian\documents\visual studio 2015\Projects\DocumentReader\DocumentReader\bin\Debug\FileHelpers.xml
+c:\users\krystian\documents\visual studio 2015\Projects\DocumentReader\DocumentReader\obj\Debug\DocumentReader.Properties.Resources.resources
+c:\users\krystian\documents\visual studio 2015\Projects\DocumentReader\DocumentReader\obj\Debug\DocumentReader.csproj.GenerateResource.Cache
+c:\users\krystian\documents\visual studio 2015\Projects\DocumentReader\DocumentReader\obj\Debug\DocumentReader.exe
+c:\users\krystian\documents\visual studio 2015\Projects\DocumentReader\DocumentReader\obj\Debug\DocumentReader.pdb
+C:\Users\Krystian\documents\visual studio 2015\Projects\DocumentReader\DocumentReader\bin\Debug\DocumentReader.exe.config
+C:\Users\Krystian\documents\visual studio 2015\Projects\DocumentReader\DocumentReader\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Krystian\documents\visual studio 2015\Projects\DocumentReader\DocumentReader\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Krystian\documents\visual studio 2015\Projects\DocumentReader\DocumentReader\obj\Debug\DocumentReader.DocumentReader.resources
